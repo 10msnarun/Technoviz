@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect width="48" height="48" rx="10" fill="#282923"/>
+  <!-- T bar -->
+  <path d="M13 14 L35 14" stroke="#D8C4A8" stroke-width="3" stroke-linecap="round"/>
+  <!-- T stem angled down into V -->
+  <path d="M24 14 L24 23 L28 32 L33 20" stroke="#F8F5EF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- V stroke -->
+  <path d="M18 20 L23 32 L26 25" stroke="#A38B70" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="28" cy="34" r="1.5" fill="#D8C4A8"/>
+</svg>

@@ -1,0 +1,743 @@
+# PROJECT: PREMIUM SOFTWARE DEVELOPMENT COMPANY PROFILE WEBSITE
+
+Act as a senior UI/UX designer, creative director, full-stack software engineer, brand strategist, and DevOps engineer.
+
+Design and develop a complete, production-oriented website for a modern software and digital product development company. The website must look like a premium international technology consultancy with a sophisticated visual identity, original content, exceptional graphics, carefully crafted layouts, and professional interactions.
+
+Do not create a generic IT company template. Develop a distinctive brand identity, original copywriting, a strong visual narrative, and an elegant digital experience.
+
+## 1. BRAND IDENTITY
+
+Create a fictional software development company with the following initial brand identity:
+
+- Company name: Velora Digital
+- Tagline: Thoughtfully Engineered. Digitally Exceptional.
+- Industry: Software engineering, web development, mobile applications, cloud solutions, AI integration, and digital transformation.
+- Brand personality: Premium, innovative, dependable, precise, forward-thinking, and design-conscious.
+- Target audience: Startups, established businesses, growing enterprises, and organizations seeking reliable technology partners.
+
+Use this name and identity consistently throughout the website. Keep the company name, contact information, social links, and other brand details easy to update from a central configuration file.
+
+Create entirely original website copy. Do not copy content from existing software companies or use recognizable template text.
+
+## 2. VISUAL DESIGN SYSTEM
+
+The visual design is one of the highest priorities. Create an elegant cream-and-beige interface with a premium editorial aesthetic.
+
+### Color palette
+
+Use these colors as the foundation:
+
+- Primary background: Warm ivory `#F8F5EF`
+- Secondary background: Soft cream `#F1E9DC`
+- Card background: `#FFFCF7`
+- Primary accent: Muted sand `#D8C4A8`
+- Secondary accent: Taupe `#A38B70`
+- Primary text: Deep charcoal `#272722`
+- Secondary text: Warm grey `#777269`
+- Border color: `#E4DACE`
+- Dark contrast section: `#282923`
+- Dark section text: `#F8F5EF`
+
+Use cream and beige as the dominant colors. Introduce charcoal sections selectively for contrast, visual rhythm, and premium presentation.
+
+Avoid excessive bright colors, generic blue gradients, neon effects, or a conventional corporate-template appearance.
+
+### Typography
+
+Use a premium typography combination:
+
+- Headlines: Playfair Display, Cormorant Garamond, or a similarly refined editorial serif.
+- Body text: Inter, Manrope, or a clean modern sans-serif.
+- Technical labels: A restrained monospace font.
+
+Use oversized headlines, strong typographic hierarchy, generous whitespace, carefully balanced line lengths, and sophisticated text alignment.
+
+### Overall aesthetic
+
+The website should resemble a premium digital design studio combined with a highly capable software engineering company.
+
+Include:
+- Large editorial headlines.
+- Asymmetric layouts and overlapping compositions.
+- Rounded or subtly squared cards, used consistently.
+- Fine borders and subtle shadows.
+- Large visual sections with layered graphics.
+- Delicate grain textures where appropriate.
+- Elegant section transitions.
+- Custom-designed icons and abstract technical illustrations.
+- Thoughtful use of negative space.
+- Carefully designed desktop, tablet, and mobile experiences.
+
+Avoid excessive rounded cards, repetitive layouts, unnecessary gradients, emoji-based icons, and large amounts of empty space without visual purpose.
+
+## 3. GRAPHICS AND VISUAL ASSETS
+
+Make the website visually rich. Do not rely entirely on text and simple rectangular cards.
+
+Create a distinctive visual system using a combination of:
+
+1. Abstract 3D-inspired technology illustrations.
+2. Layered geometric compositions in cream, beige, taupe, and charcoal.
+3. Floating interface mockups representing dashboards and digital products.
+4. Browser and mobile-device mockups.
+5. Architecture-inspired diagrams.
+6. Animated connection lines and network nodes.
+7. Custom SVG illustrations.
+8. Service-specific iconography.
+9. Subtle background patterns and grid systems.
+10. Large editorial image compositions.
+11. Project preview mockups with realistic interface details.
+12. Process diagrams that visually explain how ideas become software.
+
+Use original CSS illustrations and SVG graphics wherever practical. Use suitable high-quality external images only when they add real value. Avoid broken image links, random stock photography, and irrelevant decorative imagery.
+
+Create custom visual assets for the homepage hero, services, projects, process, technology stack, and contact sections.
+
+The hero should have a particularly strong visual identity, such as an abstract architectural composition combined with floating product interface panels and fine technical linework.
+
+Use motion sparingly and intentionally. Animations should improve the experience rather than distract from the content.
+
+## 4. WEBSITE STRUCTURE AND ORIGINAL CONTENT
+
+Build a complete multi-section company profile website with the following sections.
+
+### A. Navigation
+
+Create a premium sticky navigation bar featuring:
+
+- Company wordmark and a custom logo symbol.
+- Home.
+- Services.
+- Solutions.
+- Work.
+- About.
+- Insights.
+- Contact.
+- A prominent “Start a Project” button.
+
+The navigation should have a transparent or understated appearance over the hero and transition into a cream-colored surface when scrolling.
+
+On mobile, use an accessible animated menu with a polished open and close transition.
+
+### B. Homepage hero
+
+Use this headline:
+
+“Building Digital Products With Purpose.”
+
+Supporting text:
+
+“We partner with ambitious businesses to design, engineer, and evolve digital experiences that solve real problems and create lasting value.”
+
+Primary CTA: “Discuss Your Project”
+
+Secondary CTA: “Explore Our Expertise”
+
+Add a small supporting label:
+
+“SOFTWARE ENGINEERING · PRODUCT DESIGN · CLOUD INNOVATION”
+
+Create a striking custom hero graphic showing a connected digital ecosystem, including a web application window, mobile interface, abstract data elements, and a layered geometric background.
+
+Add subtle floating motion and line animations. The design must remain elegant and readable.
+
+Include a small trust statement such as:
+
+“Built around your business goals. Designed for real-world growth.”
+
+Do not invent client logos, customer counts, awards, partnerships, or company achievements.
+
+### C. Introduction / company overview
+
+Heading:
+
+“Technology Should Move Your Business Forward.”
+
+Content:
+
+“Great software begins with a clear understanding of the problem. We combine product thinking, thoughtful design, and disciplined engineering to build digital solutions that make work simpler, experiences better, and businesses more adaptable.”
+
+Add three visually distinctive principles:
+
+- Purpose Before Complexity — Solve the actual problem before adding technology.
+- Design With Intent — Make every interaction clear, useful, and accessible.
+- Engineering for Change — Build systems that can evolve with changing needs.
+
+Use an editorial layout with a large headline, short text, numbered principles, and an abstract geometric illustration.
+
+### D. Services section
+
+Heading:
+
+“From First Concept to Reliable Software.”
+
+Present the following services with custom graphics and distinctive card layouts.
+
+1. Custom Software Development
+
+   “Purpose-built software aligned with your workflows, operational requirements, and long-term business objectives.”
+
+2. Web Application Development
+
+   “Secure, responsive, and maintainable web applications that connect users, data, and business processes.”
+
+3. Mobile Application Development
+
+   “Thoughtfully designed mobile experiences that make digital services accessible wherever people work and live.”
+
+4. UI/UX Design and Product Strategy
+
+   “Research-led product thinking, user journeys, wireframes, interface systems, and interactive prototypes.”
+
+5. Cloud Engineering and DevOps
+
+   “Cloud infrastructure, deployment automation, containerization, observability, and reliable release workflows.”
+
+6. Artificial Intelligence Integration
+
+   “Practical AI-powered workflows, intelligent search, document processing, conversational interfaces, and automation.”
+
+7. API Development and Integrations
+
+   “Well-structured APIs and system integrations that help applications exchange data and operate together.”
+
+8. Maintenance and Modernization
+
+   “Performance improvements, legacy modernization, security updates, technical support, and continuous product improvement.”
+
+Each service should have a custom visual identity, a short description, and a subtle hover interaction. Link each service to a detailed service section or page.
+
+### E. Solutions / business capabilities
+
+Heading:
+
+“Technology That Fits the Way You Work.”
+
+Create visually rich solution areas for:
+
+- Business process automation.
+- Customer portals and self-service platforms.
+- Internal business applications.
+- E-commerce and digital platforms.
+- Cloud-native application development.
+- Data dashboards and reporting.
+- AI-assisted workflows.
+- Legacy application modernization.
+
+Explain the business problem each solution addresses and the outcomes it aims to support. Do not guarantee specific results.
+
+Use a combination of split layouts, interface mockups, workflow diagrams, and animated data illustrations.
+
+### F. Selected work / project showcase
+
+Heading:
+
+“Good Engineering. Thoughtful Experiences.”
+
+Create three fictional demonstration projects clearly labeled as illustrative concepts rather than real client engagements.
+
+Project 01: Meridian Commerce
+
+- Category: E-commerce platform concept.
+- Description: A proposed storefront and order management experience designed to simplify product discovery, inventory visibility, and purchasing workflows.
+- Visual: A premium commerce dashboard and product storefront mockup.
+
+Project 02: Atlas Operations
+
+- Category: Business operations platform concept.
+- Description: A proposed centralized workspace for operational reporting, task visibility, and cross-team coordination.
+- Visual: An elegant dashboard with charts, activity feeds, and workflow panels.
+
+Project 03: Luma Connect
+
+- Category: Customer mobile application concept.
+- Description: A proposed mobile-first service experience focused on accessible navigation, account management, and customer interactions.
+- Visual: A set of coordinated mobile device mockups.
+
+Make the portfolio visually impressive, with large previews, project descriptions, service tags, and hover effects.
+
+Do not falsely present these projects as completed client work. Label them “Concept Project” or “Illustrative Work.”
+
+### G. Development process
+
+Heading:
+
+“A Clear Path From Idea to Delivery.”
+
+Build a visual five-step process timeline.
+
+01 — Discover
+
+Understand the business, users, existing systems, constraints, and intended outcomes.
+
+02 — Define
+
+Establish requirements, prioritize features, map user journeys, and agree on technical direction.
+
+03 — Design
+
+Create wireframes, interface systems, prototypes, and a consistent experience.
+
+04 — Engineer
+
+Develop, test, integrate, and validate the application through structured engineering practices.
+
+05 — Deliver and Evolve
+
+Deploy the solution, document operations, monitor performance, and improve based on feedback.
+
+Use a connected timeline with animated progress indicators, technical diagrams, and responsive layouts.
+
+### H. Technology expertise
+
+Heading:
+
+“Built With the Right Tools for the Right Reasons.”
+
+Organize technologies into elegant categories.
+
+Frontend:
+React, Next.js, TypeScript, HTML, CSS.
+
+Backend:
+Node.js, Python, REST APIs.
+
+Mobile:
+React Native, Flutter.
+
+Cloud and infrastructure:
+Amazon Web Services, Microsoft Azure, Docker, Linux.
+
+DevOps and automation:
+Git, GitHub Actions, CI/CD, Terraform, container orchestration.
+
+Data:
+PostgreSQL, MySQL, Redis, data integration tools.
+
+AI:
+Large language model integrations, intelligent automation, semantic search, and document-processing workflows.
+
+Display technology names with restrained text-based badges, original icons where possible, and subtle animated groupings.
+
+Present these as areas of technical expertise, not proof of certifications, official partnerships, or experience with particular clients.
+
+### I. Quality, security, and reliability
+
+Heading:
+
+“Reliable by Design.”
+
+Show four key engineering principles:
+
+- Security-conscious implementation.
+- Maintainable architecture.
+- Automated testing and validation.
+- Deployment and operational visibility.
+
+Include a sophisticated dark charcoal section with fine grid graphics, system diagrams, and small animated indicators.
+
+Explain that security and reliability measures are selected according to the project's requirements and do not imply a guarantee of absolute security or uninterrupted operation.
+
+### J. About the company
+
+Heading:
+
+“Small Details. Strong Foundations. Better Outcomes.”
+
+Content:
+
+“Velora Digital brings together design thinking and software engineering to help organizations turn complex requirements into practical digital products. Our approach emphasizes clear communication, deliberate technical choices, and solutions designed around the people who use them.”
+
+Include company values:
+
+- Clarity in communication.
+- Care in execution.
+- Accountability in delivery.
+- Curiosity in problem-solving.
+- Continuous improvement.
+
+Do not invent the company's founding year, employee count, offices, certifications, client list, or historical achievements.
+
+### K. Engagement models
+
+Heading:
+
+“Flexible Ways to Build Together.”
+
+Create three polished cards:
+
+- Project-Based Delivery — Defined scope, milestones, and agreed deliverables.
+- Dedicated Development Support — Ongoing engineering capacity aligned with product priorities.
+- Consulting and Technical Advisory — Architecture reviews, implementation guidance, cloud planning, and technical roadmaps.
+
+Include a “Find the Right Approach” CTA.
+
+Do not publish invented prices. Encourage visitors to discuss scope and requirements.
+
+### L. Insights / knowledge section
+
+Heading:
+
+“Perspectives on Building Better Software.”
+
+Create three original article previews:
+
+- “Choosing an Architecture That Can Grow With Your Product”
+- “Why Deployment Automation Matters Beyond Speed”
+- “Designing Interfaces That Make Complex Work Feel Simple”
+
+Write concise original summaries for each. Use editorial thumbnail illustrations and provide working article pages or functional detail views.
+
+Do not use placeholder links.
+
+### M. FAQ section
+
+Create an accessible accordion containing:
+
+- What types of software do you develop?
+- Can you work with an existing application?
+- Do you provide cloud and DevOps services?
+- Can you integrate AI into an existing product?
+- How does a typical project begin?
+- How do you estimate project cost and timelines?
+- Do you provide maintenance after deployment?
+
+Provide useful, honest answers without promising unsupported delivery times or capabilities.
+
+### N. Contact and project inquiry
+
+Heading:
+
+“Have an Idea Worth Building?”
+
+Supporting text:
+
+“Tell us what you are working on, what is getting in the way, and what you would like to achieve. We will use that information to understand the opportunity and discuss the next steps.”
+
+Build a premium contact form with:
+
+- Full name.
+- Work email.
+- Company name.
+- Service of interest.
+- Estimated project budget as an optional selection.
+- Project description.
+- Preferred contact method.
+- Consent checkbox for the privacy notice.
+
+Include appropriate validation, loading states, success and error messages, keyboard accessibility, and spam-protection considerations.
+
+Do not display fabricated email addresses, telephone numbers, or physical office addresses. Keep contact information in a central configuration file and use a clearly marked configurable placeholder until real details are supplied.
+
+If no backend or email provider is configured, make the frontend clearly communicate that the inquiry has not been sent to a company. Do not show a false successful submission.
+
+### O. Footer
+
+Include:
+
+- Brand logo and short company statement.
+- Navigation links.
+- Service links.
+- Contact details from configuration.
+- Social links from configuration.
+- Privacy policy.
+- Terms of service.
+- Copyright year generated dynamically.
+
+Use a sophisticated charcoal or warm dark footer with cream typography and restrained decorative graphics.
+
+## 5. ADVANCED VISUAL AND INTERACTION REQUIREMENTS
+
+Make the entire website feel designed, not assembled from default components.
+
+Implement:
+
+- Smooth scrolling between sections.
+- Subtle reveal animations when sections enter the viewport.
+- Carefully staggered text and card animations.
+- Animated SVG linework and connection diagrams.
+- Interactive service cards.
+- Portfolio image and interface hover effects.
+- Animated statistics only when backed by real data; otherwise use non-numeric decorative visuals.
+- An accessible FAQ accordion.
+- A working mobile navigation.
+- A polished contact form.
+- Active navigation indicators.
+- Subtle page-load transitions.
+- Thoughtful hover states and focus states.
+- Responsive image and graphic sizing.
+- Reduced-motion support.
+- A custom 404 page.
+- A scroll-to-top interaction where appropriate.
+
+Use CSS transforms and opacity for animation where practical. Avoid excessive animation libraries, unnecessary 3D rendering, distracting cursor effects, and expensive background animations.
+
+All interactions must work. Do not create decorative buttons that do nothing.
+
+## 6. TECHNICAL IMPLEMENTATION
+
+Use the following preferred stack:
+
+- React.
+- TypeScript.
+- Vite.
+- Tailwind CSS or a clean, maintainable CSS architecture.
+- Lucide icons or equivalent consistent iconography.
+- React Router if separate pages are implemented.
+- Reusable, typed React components.
+
+Choose stable, mutually compatible package versions. Use a lockfile and avoid unnecessary dependencies.
+
+Create a modular project structure similar to:
+
+src/
+  assets/
+  components/
+    layout/
+    navigation/
+    sections/
+    ui/
+  pages/
+  data/
+  hooks/
+  lib/
+  styles/
+  App.tsx
+  main.tsx
+
+public/
+  favicon.svg
+  images/
+
+Also create:
+
+- package.json
+- package-lock.json
+- index.html
+- vite.config.ts
+- tsconfig.json
+- Dockerfile
+- compose.yaml
+- .dockerignore
+- .gitignore
+- nginx.conf
+- README.md
+- .env.example
+
+Adjust the structure when necessary, but preserve a clear separation of components, content, configuration, and styles.
+
+## 7. DOCKERFILE REQUIREMENTS
+
+Create a production-ready multi-stage Dockerfile.
+
+Stage 1: Build the application using a Node.js LTS Alpine image.
+
+- Set the working directory.
+- Copy package manifests first.
+- Install dependencies reproducibly with npm ci.
+- Copy the source code.
+- Build the optimized production application.
+
+Stage 2: Serve the compiled static files using a lightweight, stable Nginx Alpine image.
+
+- Copy the compiled build output into the Nginx web root.
+- Copy the custom Nginx configuration.
+- Expose port 80 inside the container.
+- Run Nginx in the foreground.
+- Apply sensible container security practices.
+- Ensure the container can run correctly under the selected user and permissions.
+
+Do not include development dependencies or source files unnecessarily in the final runtime image.
+
+Ensure that the build actually succeeds with the supplied source files and dependency versions.
+
+## 8. DOCKER COMPOSE REQUIREMENTS
+
+Create a production-oriented compose.yaml with a service named `web`.
+
+Requirements:
+
+- Build the image from the project Dockerfile.
+- Assign a meaningful image name.
+- Map a configurable host port to container port 80.
+- Use a restart policy such as `unless-stopped`.
+- Configure a health check using a real HTTP endpoint.
+- Apply sensible container security settings where compatible with Nginx.
+- Use a read-only filesystem and temporary writable locations if supported by the Nginx configuration.
+- Do not mount the source directory into the production container.
+- Avoid adding a database or backend service unless the application genuinely requires it.
+- Use environment-variable substitution for the published host port.
+- Ensure `docker compose config` validates the final configuration.
+
+Create an appropriate .env.example with the required variables and explain how to copy it to `.env`.
+
+Use a default published port of 8080 so the website can be tested at `http://localhost:8080` or `http://SERVER_PUBLIC_IP:8080` after deployment.
+
+The Docker container should remain independent of a locally installed Node.js runtime on the target server.
+
+## 9. NGINX CONFIGURATION
+
+Configure Nginx to:
+
+- Serve the static website efficiently.
+- Support client-side routing by falling back to `index.html`.
+- Enable suitable compression.
+- Add sensible security response headers.
+- Configure caching for fingerprinted static assets.
+- Avoid incorrectly caching the main HTML entry point.
+- Handle missing assets appropriately.
+- Support the configured health-check endpoint.
+- Avoid exposing unnecessary server version details.
+
+Do not configure HTTPS inside the container unless there is a clear reason. Document how to place a reverse proxy or a TLS termination service in front of the application for production HTTPS.
+
+## 10. SECURITY, QUALITY, AND PERFORMANCE
+
+Implement:
+
+- Semantic HTML.
+- Accessible navigation and forms.
+- Descriptive image alt text.
+- Responsive image handling.
+- Correct page titles and metadata.
+- Open Graph metadata.
+- A custom favicon.
+- A sensible robots.txt.
+- A sitemap if the page structure supports it.
+- No committed secrets.
+- No hardcoded credentials.
+- Safe handling of form inputs.
+- No fake customer testimonials.
+- No fake awards or certifications.
+- No fabricated metrics.
+- No broken links.
+- No unnecessary console errors.
+- No unused placeholder buttons.
+- No misleading success notifications.
+- Reasonable initial page-load performance.
+- Reduced-motion accessibility.
+- Responsive layouts from small mobile screens to large desktop displays.
+
+Do not add analytics, tracking scripts, or third-party data collection without an explicit requirement.
+
+If a working contact backend is not included, document exactly what is required to connect the form to an email service or API.
+
+## 11. RESPONSIVE DESIGN
+
+Desktop:
+- Spacious editorial layouts.
+- Multi-column service and project sections.
+- Large typography and immersive visuals.
+- Balanced content and graphics.
+
+Tablet:
+- Adaptive grids.
+- Properly scaled headlines.
+- Repositioned illustrations.
+- Consistent spacing.
+
+Mobile:
+- Single-column layouts where appropriate.
+- Easy-to-use navigation.
+- No horizontal overflow.
+- Comfortable tap targets.
+- Properly wrapped typography.
+- Optimized graphics and animations.
+- Readable form controls.
+- Responsive portfolio mockups.
+
+Test at approximately 360px, 390px, 768px, 1024px, and 1440px viewport widths.
+
+## 12. DEPLOYMENT DOCUMENTATION
+
+Create a comprehensive README explaining:
+
+1. Project prerequisites.
+2. How to install dependencies locally.
+3. How to run the development server.
+4. How to build the production application.
+5. How to build the Docker image.
+6. How to start the application with Docker Compose.
+7. How to view container logs.
+8. How to check container health.
+9. How to stop and restart the application.
+10. How to update and redeploy after GitHub changes.
+11. How to configure environment variables.
+12. How to deploy on an Ubuntu server.
+13. How to configure firewall rules safely.
+14. How to use a domain name and HTTPS reverse proxy.
+15. How to troubleshoot common build and deployment errors.
+
+Include these commands and verify that they match the final project:
+
+```bash
+npm ci
+npm run dev
+npm run build
+
+cp .env.example .env
+
+docker compose config
+docker compose build
+docker compose up -d
+
+docker compose ps
+docker compose logs -f web
+docker compose down
+```
+
+Explain that `docker compose down` stops and removes the Compose-managed containers and network, while preserving the built image unless it is explicitly removed.
+
+For an Ubuntu server, document installing Docker Engine and the Compose plugin using the official Docker installation instructions for Ubuntu. Do not assume Node.js must be installed on the server.
+
+Explain that port 8080 must be allowed through the host firewall and any applicable cloud security group only if direct access on that port is intended. For production, recommend exposing HTTP/HTTPS through a properly configured reverse proxy and keeping internal application ports restricted.
+
+Do not open unnecessary ports or expose Docker's management socket.
+
+## 13. FINAL VALIDATION
+
+Before considering the project complete:
+
+- Verify the package scripts.
+- Verify all imports and component paths.
+- Verify TypeScript compilation.
+- Verify the production build.
+- Verify the Docker build.
+- Verify the Compose configuration.
+- Verify the Nginx SPA fallback.
+- Verify the health-check endpoint.
+- Verify the responsive layout.
+- Verify navigation, accordions, and form validation.
+- Verify that the website does not contain broken or misleading interactions.
+- Verify that all required files are present.
+- Verify that the README matches the actual commands and configuration.
+
+Fix errors rather than merely describing them.
+
+## 14. REQUIRED DELIVERABLES
+
+Generate the complete working project, not just a visual preview or an explanation.
+
+Provide:
+
+1. The complete website source code.
+2. All reusable React components.
+3. All original company copy.
+4. All CSS, visual assets, and SVG graphics.
+5. The package manifest and lockfile.
+6. The Dockerfile.
+7. The Compose file.
+8. The Nginx configuration.
+9. The .dockerignore and .gitignore files.
+10. The .env.example file.
+11. The README with local and Ubuntu deployment instructions.
+12. A list of completed validation checks and any checks that could not actually be executed.
+
+Do not omit files with statements such as “repeat for other sections,” “add your own styles,” or “implement this later.”
+
+If the development environment supports file creation, create the files directly in the project workspace. If it supports only code output, provide the complete file contents in clearly labeled sections.
+
+Prioritize a polished and visually distinctive website, authentic original content, reliable responsive behavior, clean code, and a Docker deployment that works.
+
+The final result should look like a premium, carefully art-directed software development company website rather than a generic starter template.

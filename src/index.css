@@ -1,0 +1,76 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "JetBrains Mono", Menlo, Monaco, Consolas, monospace;
+
+  --color-ivory: #F8F5EF;
+  --color-cream: #F1E9DC;
+  --color-card: #FFFCF7;
+  --color-sand: #D8C4A8;
+  --color-taupe: #A38B70;
+  --color-charcoal: #272722;
+  --color-warmgrey: #777269;
+  --color-border: #E4DACE;
+  --color-dark: #282923;
+  --color-darktext: #F8F5EF;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    color: var(--color-charcoal);
+    background-color: var(--color-ivory);
+    scroll-behavior: smooth;
+  }
+
+  h1, h2, h3, .font-editorial {
+    font-family: var(--font-serif);
+  }
+
+  code, pre, .font-technical {
+    font-family: var(--font-mono);
+  }
+}
+
+/* Subtle architectural paper texture / fine lines */
+.bg-grid-pattern {
+  background-size: 32px 32px;
+  background-image: 
+    linear-gradient(to right, rgba(228, 218, 206, 0.35) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(228, 218, 206, 0.35) 1px, transparent 1px);
+}
+
+.bg-grid-pattern-dark {
+  background-size: 32px 32px;
+  background-image: 
+    linear-gradient(to right, rgba(216, 196, 168, 0.08) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(216, 196, 168, 0.08) 1px, transparent 1px);
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #F1E9DC;
+}
+::-webkit-scrollbar-thumb {
+  background: #D8C4A8;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #A38B70;
+}
+
+/* Respect user's motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
